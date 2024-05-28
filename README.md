@@ -12,7 +12,7 @@
 
 
 
-##The code is based on the Repo:
+#The code is based on the Repo:
 
 1. https://github.com/advimman/lama
 2.  https://github.com/enesmsahin/simple-lama-inpainting

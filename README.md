@@ -1,6 +1,6 @@
 # AI-Powered Image Inpainting
 
-1. Run the Streamlit application from the terminal: streamlit run app.py
+1. Run the Streamlit application from the terminal which is inside the main.py: streamlit run app.py
 
 2. Open the provided local URL in your web browser.
 

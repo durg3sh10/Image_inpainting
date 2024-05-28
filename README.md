@@ -1,4 +1,4 @@
-# AI-Powered Image Inpainting
+# AI-Powered Image Inpainting in Streamlit
 
 Pre-trained Model: We use the SimpleLama pre-trained model for image inpainting. This model is known for its effectiveness in generating realistic inpainting results by leveraging advanced deep learning techniques.
 Model Initialization: The SimpleLama model is initialized once at the beginning of the application.
